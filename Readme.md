@@ -46,7 +46,7 @@ Y crear la carpeta services y darle permisos a dokku, que es donde se guardan lo
 ```
 mkdir /var/lib/dokku/services
 chown -R dokku:dokku /var/lib/dokku/services
-
+```
 Para instalarlo, simplemente seguir el manual de [dokku-sentry](https://github.com/Jonatanmdez/dokku-sentry)
 
 
