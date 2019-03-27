@@ -49,3 +49,10 @@ chown -R dokku:dokku /var/lib/dokku/services
 
 Para instalarlo, simplemente seguir el manual de [dokku-sentry](https://github.com/Jonatanmdez/dokku-sentry)
 
+
+## Sonar
+
+Es un programa de analisis de código estatico, es decir, encuentra errores sin ejecutar el código, solo analizando la estructura.
+
+Para instarlo simplemente seguir el manual de [dokku-sonar-postgres](https://github.com/Jonatanmdez/dokku-sonar-postgres)
+
